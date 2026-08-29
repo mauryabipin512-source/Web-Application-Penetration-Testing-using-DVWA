@@ -17,7 +17,7 @@ The lab environment for this project consists of Kali Linux as the attacker mach
 * Metasploitable 2 / Ubuntu (DVWA hosting environment)
 * Web Browser
 * Burp Suite
-  Step 1 — DVWA Security Low
+## Burp Suite – Step 1: Configuring DVWA Security Level to Low
 <img width="673" height="426" alt="Screenshot 2026-08-29 052236" src="https://github.com/user-attachments/assets/8d8d117f-2e61-4a11-b80e-d945eeac4e0e" />
 
 
